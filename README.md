@@ -42,7 +42,7 @@ npx live-server
 ```
 
 
-#### Cloudflare Pages
+#### Cloudflare Pages 
 
 1.  Create a new repository on GitHub.
 2.  Push your code to the repository.
@@ -74,7 +74,7 @@ For improved SEO and social sharing, you can use a Cloudflare Worker to dynamica
 └── styles.css      # Theme customization
 ```
 
-## Configuration
+## Configuration 
 
 Configure your documentation site with a top-level index file named `index.json`. At minimum, include a `title`, a `defaultPage`, and a list of `documents`:
 
